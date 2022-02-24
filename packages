@@ -1,0 +1,2 @@
+#!/bin/sh
+sudo pacman -S alsa-utils base base-devel dhcpcd feh ffmpeg file-roller firefox intel-ucode lxappearance neovim networkmanager neofetch pcmanfm pulseaudio pulseaudio-alsa scrot wireless_tools wpa_supplicant xclip xdg-user-dirs xf86-input-wacom xf86-video-intel xorg-server xorg-xinit xorg-xprop xorg-xrandr xorg-xsetroot

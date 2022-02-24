@@ -1,0 +1,10 @@
+#!/bin/bash
+cp -r dotfiles/* ~/ &
+mkdir ~/suckless &
+cp -r source/* ~/suckless/ &
+cd ~/suckless/dwm &
+sudo make install &
+cd ~/suckless/st &
+sudo make install &
+cd ~/suckless/dmenu &
+sudo make install &
